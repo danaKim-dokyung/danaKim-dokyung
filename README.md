@@ -1,6 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danaKim-dokyung&show_icons=true&theme=city_lights)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danaKim-dokyung)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="center">  Tech Stack </h3>
 <p align="center">
