@@ -21,11 +21,6 @@
 </p>
 
 <h3 align="center"> Dana's </h3> 
-<p align="center">
-[![Tistory Badge](https://img.shields.io/badge/Blog-007396?style=for-the-badge&logoColor=white)](주소)
-<img alt="mail" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/> <img alt="Git" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
-<img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
-</p>
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=danaKim-dokyung&show_icons=true&theme=city_lights" height="165"> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danaKim-dokyung&layout=compact&theme=city_lights" height="165">
