@@ -3,6 +3,11 @@
 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/teee-9cf?style=?style=for-the-badge&logo=appveyor&logo=42&logoColor=9cf"/></a>
 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danaKim)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **danaKim-dokyung/danaKim-dokyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
