@@ -22,8 +22,6 @@
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=danaKim-dokyung&show_icons=true&theme=city_lights" height="165">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=danaKim-dokyung&layout=compact&theme=city_lights" height="165">
 
 
