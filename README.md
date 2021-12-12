@@ -1,8 +1,9 @@
 <h3 align="center"> Dana's </h3> 
 <p align="center">
-<img alt="Mail" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
-<img alt="Blog" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
-<img alt="Notion" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+<img alt="Mail" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Mail&logoColor=white"/>
+<img alt="Blog" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Blog&logoColor=white"/>
+<img alt="Notion" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
+<img alt="Notion" src ="https://img.shields.io/badge/Java-FF0000.svg?&style=for-the-badge&logo=Youtube&logoColor=white"/>
 </p>
 
 
