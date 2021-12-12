@@ -31,7 +31,7 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=danaKim-dokyung&show_icons=true&theme=city_lights" height="165"> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danaKim-dokyung&layout=compact&theme=city_lights" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=danaKim-dokyung&show_icons=true&theme=city_lights" width="100" height="165"> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danaKim-dokyung&layout=compact&theme=city_lights" height="165">
 
 
 <!--
