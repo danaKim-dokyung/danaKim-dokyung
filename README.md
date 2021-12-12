@@ -20,9 +20,7 @@
 <img alt="Jupyter" src ="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/> <img alt="Selenium" src ="https://img.shields.io/badge/Selenium-43B02A.svg?&style=for-the-badge&logo=Selenium&logoColor=white"/>
 </p>
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=danaKim-dokyung&show_icons=true&theme=city_lights" height="165">
-
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=danaKim-dokyung&layout=compact&theme=city_lights" height="165">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=danaKim-dokyung&show_icons=true&theme=city_lights" height="165"> <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=danaKim-dokyung&layout=compact&theme=city_lights" height="165">
 
 
 <!--
