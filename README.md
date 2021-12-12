@@ -6,7 +6,7 @@
 <img alt="Django" src ="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/>
 <img alt="Selenium" src ="https://img.shields.io/badge/Selenium-43B02A.svg?&style=for-the-badge&logo=Selenium&logoColor=white"/>
 <img alt="AWS" src ="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
-<img alt="Tomcat" src ="https://img.shields.io/badge/Apache%20Tomcat-F8DC75.svg?&style=for-the-badge&logo=Apache%20Tomcat&logoColor=white"/>
+<img alt="Tomcat" src ="https://img.shields.io/badge/Apache%20Tomcat-F8DC75.svg?&style=for-the-badge&logo=Apache%20Tomcat&logoColor=black"/>
 
 
 
