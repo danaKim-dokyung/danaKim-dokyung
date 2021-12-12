@@ -11,7 +11,7 @@
 <img alt="Javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/>
 <img alt="Git" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
 <img alt="AWS" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
-<img alt="Tomcat" src ="https://img.shields.io/badge/Apache%20Tomcat-8DC75.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
+<img alt="Tomcat" src ="https://img.shields.io/badge/Apache%20Tomcat-F8DC75.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
 
 
 
