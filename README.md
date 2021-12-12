@@ -20,6 +20,14 @@
 <img alt="Jupyter" src ="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/> <img alt="Selenium" src ="https://img.shields.io/badge/Selenium-43B02A.svg?&style=for-the-badge&logo=Selenium&logoColor=white"/>
 </p>
 
+<h3 align="center"> Dana's </h3> 
+
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-007396?style=for-the-badge&logoColor=white)](주소)
+
+<img alt="mail" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/> <img alt="Git" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
+<img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=danaKim-dokyung&show_icons=true&theme=city_lights" height="165"> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danaKim-dokyung&layout=compact&theme=city_lights" height="165">
 
 
