@@ -1,5 +1,9 @@
 <h3 align="center"> Dana's </h3> 
-
+<p align="center">
+<img alt="Mail" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+<img alt="Blog" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+<img alt="Notion" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+</p>
 
 
 <h3 align="center">  Tech Stack </h3> 
