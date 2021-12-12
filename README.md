@@ -6,7 +6,6 @@
 <img alt="Youtube" src ="https://img.shields.io/badge/Youtube-F5D6FF.svg?&style=for-the-badge&logo=Youtube&logoColor=gray"/>
 </p>
 <br>
-<br>
 
 
 <h3 align="center">  Tech Stack </h3> 
