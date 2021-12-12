@@ -4,7 +4,7 @@
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/teee-9cf?style=?style=for-the-badge&logo=appveyor&logo=42&logoColor=9cf"/></a>
 
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-<img alt="Python" src ="https://img.shields.io/badge/Java-#007396.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상"/>
+<img alt="Python" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
 <img alt="Python" src ="https://img.shields.io/badge/기술명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상"/>
 
 
