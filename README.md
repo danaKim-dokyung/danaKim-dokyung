@@ -9,11 +9,17 @@
 <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
 <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img alt="Javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/>
-<img alt="Git" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
-<img alt="AWS" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
+<img alt="Git" src ="https://img.shields.io/badge/Git-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
+<img alt="AWS" src ="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?&style=for-the-badge&logo=AWS&logoColor=white"/>
+<img alt="Tomcat" src ="https://img.shields.io/badge/Apache%20Tomcat-F8DC75.svg?&style=for-the-badge&logo=Apache%20Tomcat&logoColor=white"/>
+
+
+<img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
+<img alt="Tomcat" src ="https://img.shields.io/badge/Apache%20Tomcat-F8DC75.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
+<img alt="Tomcat" src ="https://img.shields.io/badge/Apache%20Tomcat-F8DC75.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
 <img alt="Tomcat" src ="https://img.shields.io/badge/Apache%20Tomcat-F8DC75.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
 
-
+#000000
 
 
 <!--
