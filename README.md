@@ -1,4 +1,8 @@
 
+<p align="center">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danaKim-dokyung&show_icons=true&theme=city_lights)
+</p>
+
 <h3 align="center">  Tech Stack </h3>
 <p align="center">
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
@@ -44,7 +48,6 @@
 -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danaKim-dokyung&show_icons=true&theme=city_lights)
 
 <!--
 **danaKim-dokyung/danaKim-dokyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
