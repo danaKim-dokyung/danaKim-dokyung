@@ -21,9 +21,6 @@
 </p>
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=danaKim-dokyung&show_icons=true&theme=city_lights" height="165">
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-<img align='left' src="https://github-readme-stats.vercel.app/api/wakatime?username=danaKim-dokyung" height="165">
-
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danaKim-dokyung&show_icons=true&theme=city_lights)
