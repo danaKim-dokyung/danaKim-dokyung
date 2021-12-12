@@ -1,7 +1,7 @@
 
-<p align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danaKim-dokyung&show_icons=true&theme=city_lights)
-</p>
+
 
 <h3 align="center">  Tech Stack </h3>
 <p align="center">
