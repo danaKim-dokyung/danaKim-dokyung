@@ -20,8 +20,9 @@
 <img alt="Jupyter" src ="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/> <img alt="Selenium" src ="https://img.shields.io/badge/Selenium-43B02A.svg?&style=for-the-badge&logo=Selenium&logoColor=white"/>
 </p>
 
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danaKim-dokyung&show_icons=true&theme=city_lights)
-
+-->
 <!-- 뭐가 더 
 <img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white"/>
 <img alt="SpringBoot" src ="https://img.shields.io/badge/Spring%20Boot-DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
