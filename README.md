@@ -6,9 +6,19 @@
 
 <img alt="Python" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank">여기에!</a>
 
 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+
+
+
+
+<!--
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"></a>
+-->
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danaKim-dokyung&show_icons=true&theme=prussian)
