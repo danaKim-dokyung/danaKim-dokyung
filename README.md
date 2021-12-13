@@ -1,7 +1,7 @@
 <h3 align="center"> Dana's </h3> 
 <p align="center">
-<img alt="Mail" src ="https://img.shields.io/badge/Mail-FFE8FF.svg?&style=for-the-badge&logo=Gmail&logoColor=gray"/>
-<img alt="Blog" src ="https://img.shields.io/badge/Blog-FFE8FF.svg?&style=for-the-badge&logo=Blog&logoColor=gray"/>
+<a><img alt="Mail" src ="https://img.shields.io/badge/Mail-FFE8FF.svg?&style=for-the-badge&logo=Gmail&logoColor=gray"/></a>
+<a href="https://dordy.tistory.com/"><img alt="Blog" src ="https://img.shields.io/badge/Blog-FFE8FF.svg?&style=for-the-badge&logo=Blog&logoColor=gray"/></a>
 <img alt="Notion" src ="https://img.shields.io/badge/Notion-FFE8FF.svg?&style=for-the-badge&logo=Notion&logoColor=gray"/>
 <img alt="Youtube" src ="https://img.shields.io/badge/Youtube-FFE8FF.svg?&style=for-the-badge&logo=Youtube&logoColor=gray"/>
 </p>
