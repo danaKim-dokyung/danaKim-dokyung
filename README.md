@@ -1,6 +1,8 @@
 <h3 align="center"> Dana's </h3> 
 <p align="center">
+<!--
 <a href="https://dordy.tistory.com/"><img alt="Blog" src ="https://img.shields.io/badge/Blog-FFE8FF.svg?&style=for-the-badge&logo=Blog&logoColor=gray"/></a><br>
+-->
 <a href="https://angry-capacity-44d.notion.site/Resume-2b019f6dc1c84fb3a490ce2b02014ebc"><img alt="Notion" src ="https://img.shields.io/badge/Portfolio-FFE8FF.svg?&style=for-the-badge&logo=Notion&logoColor=gray"/></a>
 
 </p>
